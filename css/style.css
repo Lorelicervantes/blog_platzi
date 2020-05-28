@@ -2,3 +2,11 @@ body{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.cabecera{
+    border: 1px solid #333;
+    padding: 0;
+    margin: 0;
+    color: aliceblue;
+    background-color:#484ae4;
+}

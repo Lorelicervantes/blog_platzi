@@ -11,6 +11,14 @@ img{
     height: 200px;
 }
 
+footer{
+    background: rgb(205, 197, 247);
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    padding: 0.5px;
+}
+
 .cabecera{
     border: 1px solid #484ae4;
     padding: 0;

@@ -4,6 +4,14 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+footer{
+    background: rgb(205, 197, 247);
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    padding: 0.5px;
+}
+
 .cabecera{
     border: 1px solid #484ae4;
     padding: 0;

@@ -4,6 +4,13 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+img{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
+
 .cabecera{
     border: 1px solid #484ae4;
     padding: 0;
@@ -11,3 +18,4 @@ body{
     color: aliceblue;
     background-color:#484ae4;
 }
+
